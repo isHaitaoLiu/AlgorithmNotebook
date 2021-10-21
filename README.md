@@ -5,14 +5,42 @@
 - 持续更新中 ... ...
 
 ## 1. 剑指offer（牛客网）
-- [JZ1：二维数组中的查找.java](https://github.com/isHaitaoLiu/AlgorithmNotebook/blob/main/%E5%89%91%E6%8C%87offer/JZ1%EF%BC%9A%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.java)
-- [JZ2：替换空格](https://github.com/isHaitaoLiu/AlgorithmNotebook/blob/main/%E5%89%91%E6%8C%87offer/JZ2%EF%BC%9A%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.java)
-- [JZ3：从头到尾打印链表](https://github.com/isHaitaoLiu/AlgorithmNotebook/blob/main/%E5%89%91%E6%8C%87offer/JZ3%EF%BC%9A%E4%BB%8E%E5%A4%B4%E5%88%B0%E5%B0%BE%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.java)
-- [JZ4：重建二叉树](https://github.com/isHaitaoLiu/AlgorithmNotebook/blob/main/%E5%89%91%E6%8C%87offer/JZ4%EF%BC%9A%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.java)
-- [jZ5：用两个栈实现队列]()
-- [jZ6：旋转数组的最小值]()
-- [jZ7：斐波那契数列]()
-- [jZ8：跳台阶]()
-- [jZ9：跳台阶扩展问题]()
-- [jZ10：矩形覆盖]()
-- [jZ11：二进制中1的个数]()
+JZ1 - JZ67 【全】
+
+## 2. 牛客高频题
+- NC1:大数加法
+- NC17:最长回文子串
+- NC50:链表节点K个一组反转
+- NC102:二叉树最近公共祖先
+- NC128:接雨水
+
+## 3. leetcode面试高频题
+- 1:两数之和
+- 2:两数相加
+- 3:无重复字符的最长子串
+- 4:寻找两个正序数组的中位数(hard，二分法)
+- 5:最长回文子串
+- 7:整数反转
+- 8:字符串转换整数
+- 10:正则表达式匹配(hard，动态规划)
+- 11:盛最多水的容器
+- 13:罗马数字转整数
+- 14:最长公共前缀
+- 15:三数之和
+- 17:电话号码的字母组合
+- 19:删除链表的倒数第 N 个结点
+- 20:有效的括号
+- 21:合并两个有序链表
+- 22:括号生成
+- 23:合并K个升序链表(hard，分治法)
+- 26:删除有序数组中的重复项
+- 28:实现 strStr()
+- 29:两数相除
+- 33:搜索旋转排序数组
+- 34:在排序数组中查找元素的第一个和最后一个位置
+- 36:有效的数独
+- 38:外观数列
+- 41:缺失的第一个正数(hard，数组置换排练)
+- 42:接雨水(hard，双指针)
+- 44:通配符匹配(hard，动态规划)
+- 46:全排列
